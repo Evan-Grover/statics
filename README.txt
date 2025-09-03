@@ -1,0 +1,1 @@
+A repo for me to practice rust by doing all my statics homework in rust.
